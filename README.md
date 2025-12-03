@@ -15,3 +15,5 @@ _[View NLP Code](Potential_Talents.ipynb)_
 Traditional methods of detecting Malaria are time-consuming, require specialized expertise, and are labor-intensive. This is not an efficient process, which represents a high burden for the healthcare industry and increases the risk of misdiagnosis, which can be fatal.
 Deep Learning techniques, particularly CNNs, offer a more effective solution to handle this type of challenges.
 _[View CNN Code](MalariaDetection_DeepLearning.ipynb)_
+
+### 4. Prediction
