@@ -14,7 +14,7 @@ A talent sourcing company needed a way to efficiently match candidates to tech o
 <br>_[View NLP Code](nlp/Potential_Talents.ipynb)_
 
 #### 4. CNN 
-Traditional methods of detecting Malaria are time-consuming, require specialized expertise, and are labor-intensive. This is not an efficient process, which represents a high burden for the healthcare industry and increases the risk of misdiagnosis, which can be fatal. Deep Learning techniques, particularly CNNs, offer a more effective solution to handle this type of challenges.
+A start‑up developing AI and computer vision solutions wanted to create MonReader, a mobile app for fast, high‑quality document digitization that could support the blind, researchers, and anyone needing bulk scanning. The challenge was to build a system that automatically detected page flips, captured high‑resolution images, corrected distortions, and preserved text formatting. I experimented with several CNNs, but initial models overfit, showing higher training accuracy than validation accuracy. By integrating augmented data and a pre‑trained model, I achieved much stronger metrics and eliminated overfitting, delivering a robust solution that improved the reliability and usability of MonReader.
 <br>_[View CNN Code](cnn/ComputerVision.ipynb)_
 
 #### 5. Trading Bot 
