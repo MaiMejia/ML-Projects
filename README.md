@@ -4,7 +4,7 @@ This repository showcases various ML projects I have developed across different 
 ### 1. Classification 
 Logistics and delivery companies often struggle to maintain customer satisfaction. To retain existing clients and attract new ones, businesses must address these challenges.
 ML & AI algorithms have the capabilities to uncover what is behind of this dissatisfaction and provide actionable insights.
-_[View Classification Code](CustomerSatisfaction.ipynb)_
+_[View Classification Code](classification/CustomerSatisfaction.ipynb)_
 
 ### 2. CNN 
 Traditional methods of detecting Malaria are time-consuming, require specialized expertise, and are labor-intensive. This is not an efficient process, which represents a high burden for the healthcare industry and increases the risk of misdiagnosis, which can be fatal.
