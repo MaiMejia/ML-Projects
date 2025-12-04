@@ -22,4 +22,4 @@ _[View NLP Code](nlp/Potential_Talents.ipynb)_
 
 #### 5. Prediction
 A small startup in the European banking market was seeking to improve customer call success rates by leveraging call center data. The task was to design a machine learning system that could predict whether a customer would subscribe to a term deposit. I explored multiple approaches and developed an evolving product focused on both performance and interpretability, ultimately building an XGBoost model. This model achieved a recall of 88% for detecting positive subscriptions and showed consistent classification across features, providing strong predictive power and actionable insights to help clients make more informed decisions.
-_[View NLP Code](prediction/Potential_Talents.ipynb)_
+_[View NLP Code](prediction/Predicting_Subscription.ipynb)_
