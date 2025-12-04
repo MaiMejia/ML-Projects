@@ -48,7 +48,7 @@ TRADE_LOG_FILE = 'weekly_trade_log.csv'
 # --- EMAIL CONFIGURATION (Read from Environment Variables) ---
 EMAIL_SENDER = os.environ.get("GMAIL_USER")
 EMAIL_PASSWORD = os.environ.get("GMAIL_PASS")
-EMAIL_RECIPIENT = "mmejiapascuales@gmail.com" # <<< UPDATE THIS TO YOUR EMAIL
+EMAIL_RECIPIENT = "@gmail.com"                       # <<< UPDATE THIS TO YOUR EMAIL
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587 # Standard port for STARTTLS (encrypted connection)
 
